@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "generate:countries": "node src/app/scripts/generate-countries.mjs"
   },
   "prettier": {
     "printWidth": 100,
