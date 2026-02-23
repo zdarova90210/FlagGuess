@@ -43,14 +43,26 @@ function indexByCode(files, kind) {
   return map;
 }
 
-const regionNames = new Intl.DisplayNames(["en"], { type: "region" });
+const regionNamesEn = new Intl.DisplayNames(["en"], { type: "region" });
+const regionNamesRu = new Intl.DisplayNames(["ru"], { type: "region" });
 
 function deriveCountryName(code) {
   const lowerCode = code.toLowerCase();
   if (!/^[a-z]{2}$/.test(lowerCode)) return null;
 
   try {
-    return regionNames.of(lowerCode.toUpperCase()) ?? null;
+    return regionNamesEn.of(lowerCode.toUpperCase()) ?? null;
+  } catch {
+    return null;
+  }
+}
+
+function deriveCountryNameRu(code) {
+  const lowerCode = code.toLowerCase();
+  if (!/^[a-z]{2}$/.test(lowerCode)) return null;
+
+  try {
+    return regionNamesRu.of(lowerCode.toUpperCase()) ?? null;
   } catch {
     return null;
   }
@@ -74,10 +86,12 @@ const countries = [...allCodes]
   .map((code) => {
     const svgFile = svgByCode.get(code);
     const pngFile = pngByCode.get(code);
+    const nameEn = deriveCountryName(code) ?? code;
 
     return {
       code,
-      name: deriveCountryName(code) ?? code,
+      name: nameEn,
+      nameRu: deriveCountryNameRu(code) ?? nameEn,
       flagSvgPath: svgFile ? makeAssetPath("svg", svgFile) : undefined,
       flagPngPath: pngFile ? makeAssetPath("png", pngFile) : undefined,
     };
