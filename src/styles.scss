@@ -1,6 +1,13 @@
 @use "styles/reset";
-@use "styles/variables" as variables;
 @use "styles/fonts";
+@use "styles/variables" as variables;
+
+/*TODO: Temp styles. Remove it when make adaptivity*/
+body {
+  max-width: 767px;
+  margin: 0 auto;
+  outline: 1px solid white;
+}
 
 html, body {
   font-family: roboto-var, sans-serif, system-ui;
