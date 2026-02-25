@@ -5,7 +5,7 @@ const ROOT = process.cwd();
 
 const SVG_DIR = path.join(ROOT, "src/app/assets/img/all-flags-svg");
 const PNG_DIR = path.join(ROOT, "src/app/assets/img/all-flags-png");
-const OUT_FILE = path.join(ROOT, "src/app/data/countries.generated.json");
+const OUT_FILE = path.join(ROOT, "src/app/assets/data/countries.generated.json");
 
 function listFiles(dirAbs, allowedExts) {
   if (!fs.existsSync(dirAbs)) return [];
