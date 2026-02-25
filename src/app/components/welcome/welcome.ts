@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
+import {Router} from '@angular/router';
 
 @Component({
   selector: 'app-welcome',
@@ -8,4 +9,10 @@ import { Component } from '@angular/core';
 })
 export class Welcome {
 
+  constructor(private router: Router) {
+  }
+
+  goToGame() {
+    this.router.navigate(['/game']).then();
+  }
 }
