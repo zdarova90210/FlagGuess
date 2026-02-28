@@ -22,6 +22,9 @@ export class GameComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    // this.gameService.getFlags(5, 1);
+    this.gameService.getFlags()
+      .subscribe(flags => {
+        console.log(flags);
+      });
   }
 }
