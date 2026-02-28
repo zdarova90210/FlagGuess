@@ -21,7 +21,7 @@ export class GameService {
       shareReplay(1)
     );
 
-  getFlags(count: number = 10, difficulty: 1 | 2 | 3 | 4 | 5 = 1): Observable<ICountry[]> {
+  getCountries(count: number = 10, difficulty: 1 | 2 | 3 | 4 | 5 = 1): Observable<ICountry[]> {
     return this.countriesByDifficulty$.pipe(
       map(countries => [...(countries[difficulty] ?? [])]
         .sort(() => Math.random() - 0.5)

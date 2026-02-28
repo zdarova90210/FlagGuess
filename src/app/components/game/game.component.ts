@@ -1,30 +1,26 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, inject, OnInit} from '@angular/core';
 import {FormControl, FormGroup, ReactiveFormsModule} from '@angular/forms';
-import {JsonPipe} from '@angular/common';
 import {GameService} from '../../services/game.service';
+import {Observable} from 'rxjs';
+import {ICountry} from '../../models/country';
 
 @Component({
   selector: 'app-game',
-  imports: [
-    ReactiveFormsModule,
-    JsonPipe
-  ],
+  standalone: true,
+  imports: [ReactiveFormsModule],
   templateUrl: './game.component.html',
   styleUrl: './game.component.scss',
 })
 export class GameComponent implements OnInit {
+  private gameService = inject(GameService);
+  countries$: Observable<ICountry[]> = this.gameService.getCountries();
   form: FormGroup = new FormGroup({
-    answer: new FormControl()
+    answer: new FormControl<string>('', {nonNullable: true})
   });
 
-  constructor(private gameService: GameService) {
-
-  }
-
   ngOnInit(): void {
-    this.gameService.getFlags()
-      .subscribe(flags => {
-        console.log(flags);
-      });
+    this.countries$.subscribe(countries => {
+      console.log('Countries loaded:', countries);
+    });
   }
 }

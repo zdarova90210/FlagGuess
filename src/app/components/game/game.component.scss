@@ -4,4 +4,11 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
+
+  .answer {
+    border-radius: 16px;
+    padding: 8px 16px;
+    font-size: 24px;
+    border: 1px solid #ccc;
+  }
 }

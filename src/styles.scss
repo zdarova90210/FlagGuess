@@ -9,8 +9,11 @@ body {
   outline: 1px solid white;
 }
 
-html, body {
+html, body, button, input {
   font-family: roboto-var, sans-serif, system-ui;
+}
+
+html, body {
   color: #ffffff;
   background-color: #2c2c2c;
   font-size: variables.$app-base-font-size;
