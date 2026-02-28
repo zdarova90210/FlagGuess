@@ -2003,8 +2003,14 @@
   },
   {
     "code": "HN",
-    "name": "Honduras",
-    "nameRu": "Гондурас",
+    "namesEn": [
+      "Honduras",
+      "Republic of Honduras"
+    ],
+    "namesRu": [
+      "Гондурас",
+      "Республика Гондурас"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/hn.svg",
     "flagPngPath": "assets/img/all-flags-png/hn.png",
     "difficulty": 3,
@@ -2017,8 +2023,14 @@
   },
   {
     "code": "HR",
-    "name": "Croatia",
-    "nameRu": "Хорватия",
+    "namesEn": [
+      "Croatia",
+      "Republic of Croatia"
+    ],
+    "namesRu": [
+      "Хорватия",
+      "Республика Хорватия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/hr.svg",
     "flagPngPath": "assets/img/all-flags-png/hr.png",
     "difficulty": 4,
@@ -2035,8 +2047,14 @@
   },
   {
     "code": "HT",
-    "name": "Haiti",
-    "nameRu": "Гаити",
+    "namesEn": [
+      "Haiti",
+      "Republic of Haiti"
+    ],
+    "namesRu": [
+      "Гаити",
+      "Республика Гаити"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ht.svg",
     "flagPngPath": "assets/img/all-flags-png/ht.png",
     "difficulty": 3,
@@ -2044,8 +2062,12 @@
   },
   {
     "code": "HU",
-    "name": "Hungary",
-    "nameRu": "Венгрия",
+    "namesEn": [
+      "Hungary"
+    ],
+    "namesRu": [
+      "Венгрия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/hu.svg",
     "flagPngPath": "assets/img/all-flags-png/hu.png",
     "difficulty": 4,
@@ -2059,8 +2081,14 @@
   },
   {
     "code": "ID",
-    "name": "Indonesia",
-    "nameRu": "Индонезия",
+    "namesEn": [
+      "Indonesia",
+      "Republic of Indonesia"
+    ],
+    "namesRu": [
+      "Индонезия",
+      "Республика Индонезия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/id.svg",
     "flagPngPath": "assets/img/all-flags-png/id.png",
     "difficulty": 2,
@@ -2072,8 +2100,14 @@
   },
   {
     "code": "IE",
-    "name": "Ireland",
-    "nameRu": "Ирландия",
+    "namesEn": [
+      "Ireland",
+      "Republic of Ireland"
+    ],
+    "namesRu": [
+      "Ирландия",
+      "Республика Ирландия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ie.svg",
     "flagPngPath": "assets/img/all-flags-png/ie.png",
     "difficulty": 2,
@@ -2081,18 +2115,28 @@
   },
   {
     "code": "IL",
-    "name": "Israel",
-    "nameRu": "Израиль",
+    "namesEn": [
+      "Israel",
+      "State of Israel"
+    ],
+    "namesRu": [
+      "Израиль",
+      "Государство Израиль"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/il.svg",
     "flagPngPath": "assets/img/all-flags-png/il.png",
     "difficulty": 1,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "IM",
-    "name": "Isle of Man",
-    "nameRu": "о-в Мэн",
+    "namesEn": [
+      "Isle of Man"
+    ],
+    "namesRu": [
+      "о-в Мэн",
+      "остров Мэн"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/im.svg",
     "flagPngPath": "assets/img/all-flags-png/im.png",
     "difficulty": 4,
@@ -2108,18 +2152,28 @@
   },
   {
     "code": "IN",
-    "name": "India",
-    "nameRu": "Индия",
+    "namesEn": [
+      "India",
+      "Republic of India"
+    ],
+    "namesRu": [
+      "Индия",
+      "Республика Индия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/in.svg",
     "flagPngPath": "assets/img/all-flags-png/in.png",
     "difficulty": 1,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "IO",
-    "name": "British Indian Ocean Territory",
-    "nameRu": "Британская территория в Индийском океане",
+    "namesEn": [
+      "British Indian Ocean Territory",
+      "BIOT"
+    ],
+    "namesRu": [
+      "Британская территория в Индийском океане"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/io.svg",
     "flagPngPath": "assets/img/all-flags-png/io.png",
     "difficulty": 5,
@@ -2148,8 +2202,14 @@
   },
   {
     "code": "IQ",
-    "name": "Iraq",
-    "nameRu": "Ирак",
+    "namesEn": [
+      "Iraq",
+      "Republic of Iraq"
+    ],
+    "namesRu": [
+      "Ирак",
+      "Республика Ирак"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/iq.svg",
     "flagPngPath": "assets/img/all-flags-png/iq.png",
     "difficulty": 3,
@@ -2162,8 +2222,15 @@
   },
   {
     "code": "IR",
-    "name": "Iran",
-    "nameRu": "Иран",
+    "namesEn": [
+      "Iran",
+      "Iran, Islamic Republic of",
+      "Islamic Republic of Iran"
+    ],
+    "namesRu": [
+      "Иран",
+      "Исламская Республика Иран"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ir.svg",
     "flagPngPath": "assets/img/all-flags-png/ir.png",
     "difficulty": 4,
@@ -2177,8 +2244,14 @@
   },
   {
     "code": "IS",
-    "name": "Iceland",
-    "nameRu": "Исландия",
+    "namesEn": [
+      "Iceland",
+      "Republic of Iceland"
+    ],
+    "namesRu": [
+      "Исландия",
+      "Республика Исландия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/is.svg",
     "flagPngPath": "assets/img/all-flags-png/is.png",
     "difficulty": 3,
@@ -2194,8 +2267,14 @@
   },
   {
     "code": "IT",
-    "name": "Italy",
-    "nameRu": "Италия",
+    "namesEn": [
+      "Italy",
+      "Italian Republic"
+    ],
+    "namesRu": [
+      "Италия",
+      "Итальянская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/it.svg",
     "flagPngPath": "assets/img/all-flags-png/it.png",
     "difficulty": 2,
@@ -2209,8 +2288,14 @@
   },
   {
     "code": "JE",
-    "name": "Jersey",
-    "nameRu": "Джерси",
+    "namesEn": [
+      "Jersey",
+      "Bailiwick of Jersey"
+    ],
+    "namesRu": [
+      "Джерси",
+      "Балиат Джерси"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/je.svg",
     "flagPngPath": "assets/img/all-flags-png/je.png",
     "difficulty": 4,
@@ -2226,18 +2311,27 @@
   },
   {
     "code": "JM",
-    "name": "Jamaica",
-    "nameRu": "Ямайка",
+    "namesEn": [
+      "Jamaica"
+    ],
+    "namesRu": [
+      "Ямайка"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/jm.svg",
     "flagPngPath": "assets/img/all-flags-png/jm.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "JO",
-    "name": "Jordan",
-    "nameRu": "Иордания",
+    "namesEn": [
+      "Jordan",
+      "Hashemite Kingdom of Jordan"
+    ],
+    "namesRu": [
+      "Иордания",
+      "Иорданское Хашимитское Королевство"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/jo.svg",
     "flagPngPath": "assets/img/all-flags-png/jo.png",
     "difficulty": 4,
@@ -2251,8 +2345,12 @@
   },
   {
     "code": "JP",
-    "name": "Japan",
-    "nameRu": "Япония",
+    "namesEn": [
+      "Japan"
+    ],
+    "namesRu": [
+      "Япония"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/jp.svg",
     "flagPngPath": "assets/img/all-flags-png/jp.png",
     "difficulty": 1,
@@ -2265,8 +2363,14 @@
   },
   {
     "code": "KE",
-    "name": "Kenya",
-    "nameRu": "Кения",
+    "namesEn": [
+      "Kenya",
+      "Republic of Kenya"
+    ],
+    "namesRu": [
+      "Кения",
+      "Республика Кения"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ke.svg",
     "flagPngPath": "assets/img/all-flags-png/ke.png",
     "difficulty": 3,
@@ -2277,48 +2381,76 @@
   },
   {
     "code": "KG",
-    "name": "Kyrgyzstan",
-    "nameRu": "Киргизия",
+    "namesEn": [
+      "Kyrgyzstan",
+      "Kyrgyz Republic"
+    ],
+    "namesRu": [
+      "Киргизия",
+      "Кыргызстан",
+      "Кыргызская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kg.svg",
     "flagPngPath": "assets/img/all-flags-png/kg.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "KH",
-    "name": "Cambodia",
-    "nameRu": "Камбоджа",
+    "namesEn": [
+      "Cambodia",
+      "Kingdom of Cambodia"
+    ],
+    "namesRu": [
+      "Камбоджа",
+      "Королевство Камбоджа"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kh.svg",
     "flagPngPath": "assets/img/all-flags-png/kh.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "KI",
-    "name": "Kiribati",
-    "nameRu": "Кирибати",
+    "namesEn": [
+      "Kiribati",
+      "Republic of Kiribati"
+    ],
+    "namesRu": [
+      "Кирибати",
+      "Республика Кирибати"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ki.svg",
     "flagPngPath": "assets/img/all-flags-png/ki.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "KM",
-    "name": "Comoros",
-    "nameRu": "Коморы",
+    "namesEn": [
+      "Comoros",
+      "Union of the Comoros"
+    ],
+    "namesRu": [
+      "Коморы",
+      "Союз Коморских Остров"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/km.svg",
     "flagPngPath": "assets/img/all-flags-png/km.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "KN",
-    "name": "St. Kitts \u0026 Nevis",
-    "nameRu": "Сент-Китс и Невис",
+    "namesEn": [
+      "St. Kitts & Nevis",
+      "St. Kitts and Nevis",
+      "Saint Kitts and Nevis",
+      "Federation of Saint Kitts and Nevis"
+    ],
+    "namesRu": [
+      "Сент-Китс и Невис"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kn.svg",
     "flagPngPath": "assets/img/all-flags-png/kn.png",
     "difficulty": 3,
@@ -2331,8 +2463,16 @@
   },
   {
     "code": "KP",
-    "name": "North Korea",
-    "nameRu": "КНДР",
+    "namesEn": [
+      "North Korea",
+      "DPRK",
+      "Democratic People's Republic of Korea"
+    ],
+    "namesRu": [
+      "КНДР",
+      "Северная Корея",
+      "Демократическая Народная Республика Корея"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kp.svg",
     "flagPngPath": "assets/img/all-flags-png/kp.png",
     "difficulty": 1,
@@ -2344,8 +2484,15 @@
   },
   {
     "code": "KR",
-    "name": "South Korea",
-    "nameRu": "Республика Корея",
+    "namesEn": [
+      "South Korea",
+      "Republic of Korea",
+      "Korea, Republic of"
+    ],
+    "namesRu": [
+      "Республика Корея",
+      "Южная Корея"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kr.svg",
     "flagPngPath": "assets/img/all-flags-png/kr.png",
     "difficulty": 1,
@@ -2353,8 +2500,14 @@
   },
   {
     "code": "KW",
-    "name": "Kuwait",
-    "nameRu": "Кувейт",
+    "namesEn": [
+      "Kuwait",
+      "State of Kuwait"
+    ],
+    "namesRu": [
+      "Кувейт",
+      "Государство Кувейт"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kw.svg",
     "flagPngPath": "assets/img/all-flags-png/kw.png",
     "difficulty": 4,
@@ -2368,8 +2521,13 @@
   },
   {
     "code": "KY",
-    "name": "Cayman Islands",
-    "nameRu": "о-ва Кайман",
+    "namesEn": [
+      "Cayman Islands"
+    ],
+    "namesRu": [
+      "о-ва Кайман",
+      "Каймановы острова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ky.svg",
     "flagPngPath": "assets/img/all-flags-png/ky.png",
     "difficulty": 4,
@@ -2398,18 +2556,31 @@
   },
   {
     "code": "KZ",
-    "name": "Kazakhstan",
-    "nameRu": "Казахстан",
+    "namesEn": [
+      "Kazakhstan",
+      "Republic of Kazakhstan"
+    ],
+    "namesRu": [
+      "Казахстан",
+      "Республика Казахстан"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/kz.svg",
     "flagPngPath": "assets/img/all-flags-png/kz.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "LA",
-    "name": "Laos",
-    "nameRu": "Лаос",
+    "namesEn": [
+      "Laos",
+      "Lao PDR",
+      "Lao People's Democratic Republic"
+    ],
+    "namesRu": [
+      "Лаос",
+      "Лаосская Народно-Демократическая Республика",
+      "ЛНДР"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/la.svg",
     "flagPngPath": "assets/img/all-flags-png/la.png",
     "difficulty": 3,
@@ -2422,18 +2593,28 @@
   },
   {
     "code": "LB",
-    "name": "Lebanon",
-    "nameRu": "Ливан",
+    "namesEn": [
+      "Lebanon",
+      "Lebanese Republic"
+    ],
+    "namesRu": [
+      "Ливан",
+      "Ливанская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lb.svg",
     "flagPngPath": "assets/img/all-flags-png/lb.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "LC",
-    "name": "St. Lucia",
-    "nameRu": "Сент-Люсия",
+    "namesEn": [
+      "St. Lucia",
+      "Saint Lucia"
+    ],
+    "namesRu": [
+      "Сент-Люсия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lc.svg",
     "flagPngPath": "assets/img/all-flags-png/lc.png",
     "difficulty": 3,
@@ -2446,28 +2627,44 @@
   },
   {
     "code": "LI",
-    "name": "Liechtenstein",
-    "nameRu": "Лихтенштейн",
+    "namesEn": [
+      "Liechtenstein",
+      "Principality of Liechtenstein"
+    ],
+    "namesRu": [
+      "Лихтенштейн",
+      "Княжество Лихтенштейн"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/li.svg",
     "flagPngPath": "assets/img/all-flags-png/li.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "LK",
-    "name": "Sri Lanka",
-    "nameRu": "Шри-Ланка",
+    "namesEn": [
+      "Sri Lanka",
+      "Democratic Socialist Republic of Sri Lanka"
+    ],
+    "namesRu": [
+      "Шри-Ланка",
+      "Демократическая Социалистическая Республика Шри-Ланка"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lk.svg",
     "flagPngPath": "assets/img/all-flags-png/lk.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "LR",
-    "name": "Liberia",
-    "nameRu": "Либерия",
+    "namesEn": [
+      "Liberia",
+      "Republic of Liberia"
+    ],
+    "namesRu": [
+      "Либерия",
+      "Республика Либерия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lr.svg",
     "flagPngPath": "assets/img/all-flags-png/lr.png",
     "difficulty": 3,
@@ -2478,18 +2675,29 @@
   },
   {
     "code": "LS",
-    "name": "Lesotho",
-    "nameRu": "Лесото",
+    "namesEn": [
+      "Lesotho",
+      "Kingdom of Lesotho"
+    ],
+    "namesRu": [
+      "Лесото",
+      "Королевство Лесото"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ls.svg",
     "flagPngPath": "assets/img/all-flags-png/ls.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "LT",
-    "name": "Lithuania",
-    "nameRu": "Литва",
+    "namesEn": [
+      "Lithuania",
+      "Republic of Lithuania"
+    ],
+    "namesRu": [
+      "Литва",
+      "Литовская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lt.svg",
     "flagPngPath": "assets/img/all-flags-png/lt.png",
     "difficulty": 4,
@@ -2509,8 +2717,14 @@
   },
   {
     "code": "LU",
-    "name": "Luxembourg",
-    "nameRu": "Люксембург",
+    "namesEn": [
+      "Luxembourg",
+      "Grand Duchy of Luxembourg"
+    ],
+    "namesRu": [
+      "Люксембург",
+      "Великое Герцогство Люксембург"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lu.svg",
     "flagPngPath": "assets/img/all-flags-png/lu.png",
     "difficulty": 4,
@@ -2526,8 +2740,14 @@
   },
   {
     "code": "LV",
-    "name": "Latvia",
-    "nameRu": "Латвия",
+    "namesEn": [
+      "Latvia",
+      "Republic of Latvia"
+    ],
+    "namesRu": [
+      "Латвия",
+      "Латвийская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/lv.svg",
     "flagPngPath": "assets/img/all-flags-png/lv.png",
     "difficulty": 3,
@@ -2540,8 +2760,14 @@
   },
   {
     "code": "LY",
-    "name": "Libya",
-    "nameRu": "Ливия",
+    "namesEn": [
+      "Libya",
+      "State of Libya"
+    ],
+    "namesRu": [
+      "Ливия",
+      "Государство Ливия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ly.svg",
     "flagPngPath": "assets/img/all-flags-png/ly.png",
     "difficulty": 3,
@@ -2549,18 +2775,29 @@
   },
   {
     "code": "MA",
-    "name": "Morocco",
-    "nameRu": "Марокко",
+    "namesEn": [
+      "Morocco",
+      "Kingdom of Morocco"
+    ],
+    "namesRu": [
+      "Марокко",
+      "Королевство Марокко"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ma.svg",
     "flagPngPath": "assets/img/all-flags-png/ma.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MC",
-    "name": "Monaco",
-    "nameRu": "Монако",
+    "namesEn": [
+      "Monaco",
+      "Principality of Monaco"
+    ],
+    "namesRu": [
+      "Монако",
+      "Княжество Монако"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mc.svg",
     "flagPngPath": "assets/img/all-flags-png/mc.png",
     "difficulty": 3,
@@ -2572,8 +2809,14 @@
   },
   {
     "code": "MD",
-    "name": "Moldova",
-    "nameRu": "Молдова",
+    "namesEn": [
+      "Moldova",
+      "Republic of Moldova"
+    ],
+    "namesRu": [
+      "Молдова",
+      "Республика Молдова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/md.svg",
     "flagPngPath": "assets/img/all-flags-png/md.png",
     "difficulty": 3,
@@ -2584,8 +2827,12 @@
   },
   {
     "code": "ME",
-    "name": "Montenegro",
-    "nameRu": "Черногория",
+    "namesEn": [
+      "Montenegro"
+    ],
+    "namesRu": [
+      "Черногория"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/me.svg",
     "flagPngPath": "assets/img/all-flags-png/me.png",
     "difficulty": 3,
@@ -2593,8 +2840,14 @@
   },
   {
     "code": "MF",
-    "name": "St. Martin",
-    "nameRu": "Сен-Мартен",
+    "namesEn": [
+      "St. Martin",
+      "Saint Martin",
+      "Saint Martin (French part)"
+    ],
+    "namesRu": [
+      "Сен-Мартен"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mf.svg",
     "flagPngPath": "assets/img/all-flags-png/mf.png",
     "difficulty": 5,
@@ -2614,38 +2867,60 @@
   },
   {
     "code": "MG",
-    "name": "Madagascar",
-    "nameRu": "Мадагаскар",
+    "namesEn": [
+      "Madagascar",
+      "Republic of Madagascar"
+    ],
+    "namesRu": [
+      "Мадагаскар",
+      "Республика Мадагаскар"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mg.svg",
     "flagPngPath": "assets/img/all-flags-png/mg.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MH",
-    "name": "Marshall Islands",
-    "nameRu": "Маршалловы о-ва",
+    "namesEn": [
+      "Marshall Islands",
+      "Republic of the Marshall Islands"
+    ],
+    "namesRu": [
+      "Маршалловы о-ва",
+      "Маршалловы острова",
+      "Республика Маршалловы Острова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mh.svg",
     "flagPngPath": "assets/img/all-flags-png/mh.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MK",
-    "name": "North Macedonia",
-    "nameRu": "Северная Македония",
+    "namesEn": [
+      "North Macedonia",
+      "Republic of North Macedonia"
+    ],
+    "namesRu": [
+      "Северная Македония",
+      "Республика Северная Македония"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mk.svg",
     "flagPngPath": "assets/img/all-flags-png/mk.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "ML",
-    "name": "Mali",
-    "nameRu": "Мали",
+    "namesEn": [
+      "Mali",
+      "Republic of Mali"
+    ],
+    "namesRu": [
+      "Мали",
+      "Республика Мали"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ml.svg",
     "flagPngPath": "assets/img/all-flags-png/ml.png",
     "difficulty": 4,
@@ -2664,48 +2939,78 @@
   },
   {
     "code": "MM",
-    "name": "Myanmar (Burma)",
-    "nameRu": "Мьянма (Бирма)",
+    "namesEn": [
+      "Myanmar (Burma)",
+      "Myanmar",
+      "Burma",
+      "Republic of the Union of Myanmar"
+    ],
+    "namesRu": [
+      "Мьянма (Бирма)",
+      "Мьянма",
+      "Бирма",
+      "Республика Союз Мьянма"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mm.svg",
     "flagPngPath": "assets/img/all-flags-png/mm.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MN",
-    "name": "Mongolia",
-    "nameRu": "Монголия",
+    "namesEn": [
+      "Mongolia"
+    ],
+    "namesRu": [
+      "Монголия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mn.svg",
     "flagPngPath": "assets/img/all-flags-png/mn.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MO",
-    "name": "Macao SAR China",
-    "nameRu": "Макао (САР)",
+    "namesEn": [
+      "Macao SAR China",
+      "Macao",
+      "Macau",
+      "Macao Special Administrative Region of China"
+    ],
+    "namesRu": [
+      "Макао (САР)",
+      "Макао",
+      "СЯОН Макао",
+      "Специальный административный район Макао"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mo.svg",
     "flagPngPath": "assets/img/all-flags-png/mo.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MP",
-    "name": "Northern Mariana Islands",
-    "nameRu": "Северные Марианские о-ва",
+    "namesEn": [
+      "Northern Mariana Islands",
+      "Commonwealth of the Northern Mariana Islands"
+    ],
+    "namesRu": [
+      "Северные Марианские о-ва",
+      "Северные Марианские острова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mp.svg",
     "flagPngPath": "assets/img/all-flags-png/mp.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MQ",
-    "name": "Martinique",
-    "nameRu": "Мартиника",
+    "namesEn": [
+      "Martinique"
+    ],
+    "namesRu": [
+      "Мартиника"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mq.svg",
     "flagPngPath": "assets/img/all-flags-png/mq.png",
     "difficulty": 5,
@@ -2725,8 +3030,14 @@
   },
   {
     "code": "MR",
-    "name": "Mauritania",
-    "nameRu": "Мавритания",
+    "namesEn": [
+      "Mauritania",
+      "Islamic Republic of Mauritania"
+    ],
+    "namesRu": [
+      "Мавритания",
+      "Исламская Республика Мавритания"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mr.svg",
     "flagPngPath": "assets/img/all-flags-png/mr.png",
     "difficulty": 3,
@@ -2737,8 +3048,12 @@
   },
   {
     "code": "MS",
-    "name": "Montserrat",
-    "nameRu": "Монтсеррат",
+    "namesEn": [
+      "Montserrat"
+    ],
+    "namesRu": [
+      "Монтсеррат"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ms.svg",
     "flagPngPath": "assets/img/all-flags-png/ms.png",
     "difficulty": 5,
@@ -2767,18 +3082,29 @@
   },
   {
     "code": "MT",
-    "name": "Malta",
-    "nameRu": "Мальта",
+    "namesEn": [
+      "Malta",
+      "Republic of Malta"
+    ],
+    "namesRu": [
+      "Мальта",
+      "Республика Мальта"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mt.svg",
     "flagPngPath": "assets/img/all-flags-png/mt.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MU",
-    "name": "Mauritius",
-    "nameRu": "Маврикий",
+    "namesEn": [
+      "Mauritius",
+      "Republic of Mauritius"
+    ],
+    "namesRu": [
+      "Маврикий",
+      "Республика Маврикий"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mu.svg",
     "flagPngPath": "assets/img/all-flags-png/mu.png",
     "difficulty": 3,
@@ -2786,28 +3112,45 @@
   },
   {
     "code": "MV",
-    "name": "Maldives",
-    "nameRu": "Мальдивы",
+    "namesEn": [
+      "Maldives",
+      "Republic of Maldives"
+    ],
+    "namesRu": [
+      "Мальдивы",
+      "Мальдивская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mv.svg",
     "flagPngPath": "assets/img/all-flags-png/mv.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MW",
-    "name": "Malawi",
-    "nameRu": "Малави",
+    "namesEn": [
+      "Malawi",
+      "Republic of Malawi"
+    ],
+    "namesRu": [
+      "Малави",
+      "Республика Малави"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mw.svg",
     "flagPngPath": "assets/img/all-flags-png/mw.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "MX",
-    "name": "Mexico",
-    "nameRu": "Мексика",
+    "namesEn": [
+      "Mexico",
+      "United Mexican States"
+    ],
+    "namesRu": [
+      "Мексика",
+      "Мексиканские Соединённые Штаты",
+      "Мексиканские Соединенные Штаты"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mx.svg",
     "flagPngPath": "assets/img/all-flags-png/mx.png",
     "difficulty": 2,
@@ -2821,8 +3164,12 @@
   },
   {
     "code": "MY",
-    "name": "Malaysia",
-    "nameRu": "Малайзия",
+    "namesEn": [
+      "Malaysia"
+    ],
+    "namesRu": [
+      "Малайзия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/my.svg",
     "flagPngPath": "assets/img/all-flags-png/my.png",
     "difficulty": 2,
@@ -2833,28 +3180,42 @@
   },
   {
     "code": "MZ",
-    "name": "Mozambique",
-    "nameRu": "Мозамбик",
+    "namesEn": [
+      "Mozambique",
+      "Republic of Mozambique"
+    ],
+    "namesRu": [
+      "Мозамбик",
+      "Республика Мозамбик"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/mz.svg",
     "flagPngPath": "assets/img/all-flags-png/mz.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "NA",
-    "name": "Namibia",
-    "nameRu": "Намибия",
+    "namesEn": [
+      "Namibia",
+      "Republic of Namibia"
+    ],
+    "namesRu": [
+      "Намибия",
+      "Республика Намибия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/na.svg",
     "flagPngPath": "assets/img/all-flags-png/na.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "NC",
-    "name": "New Caledonia",
-    "nameRu": "Новая Каледония",
+    "namesEn": [
+      "New Caledonia"
+    ],
+    "namesRu": [
+      "Новая Каледония"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nc.svg",
     "flagPngPath": "assets/img/all-flags-png/nc.png",
     "difficulty": 5,
@@ -2874,8 +3235,15 @@
   },
   {
     "code": "NE",
-    "name": "Niger",
-    "nameRu": "Нигер",
+    "namesEn": [
+      "Niger",
+      "Republic of the Niger",
+      "Republic of Niger"
+    ],
+    "namesRu": [
+      "Нигер",
+      "Республика Нигер"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ne.svg",
     "flagPngPath": "assets/img/all-flags-png/ne.png",
     "difficulty": 4,
@@ -2890,8 +3258,13 @@
   },
   {
     "code": "NF",
-    "name": "Norfolk Island",
-    "nameRu": "о-в Норфолк",
+    "namesEn": [
+      "Norfolk Island"
+    ],
+    "namesRu": [
+      "о-в Норфолк",
+      "остров Норфолк"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nf.svg",
     "flagPngPath": "assets/img/all-flags-png/nf.png",
     "difficulty": 5,
@@ -2920,8 +3293,14 @@
   },
   {
     "code": "NG",
-    "name": "Nigeria",
-    "nameRu": "Нигерия",
+    "namesEn": [
+      "Nigeria",
+      "Federal Republic of Nigeria"
+    ],
+    "namesRu": [
+      "Нигерия",
+      "Федеративная Республика Нигерия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ng.svg",
     "flagPngPath": "assets/img/all-flags-png/ng.png",
     "difficulty": 3,
@@ -2932,8 +3311,14 @@
   },
   {
     "code": "NI",
-    "name": "Nicaragua",
-    "nameRu": "Никарагуа",
+    "namesEn": [
+      "Nicaragua",
+      "Republic of Nicaragua"
+    ],
+    "namesRu": [
+      "Никарагуа",
+      "Республика Никарагуа"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ni.svg",
     "flagPngPath": "assets/img/all-flags-png/ni.png",
     "difficulty": 3,
@@ -2946,8 +3331,16 @@
   },
   {
     "code": "NL",
-    "name": "Netherlands",
-    "nameRu": "Нидерланды",
+    "namesEn": [
+      "Netherlands",
+      "The Netherlands",
+      "Kingdom of the Netherlands"
+    ],
+    "namesRu": [
+      "Нидерланды",
+      "Королевство Нидерландов",
+      "Голландия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nl.svg",
     "flagPngPath": "assets/img/all-flags-png/nl.png",
     "difficulty": 3,
@@ -2963,8 +3356,14 @@
   },
   {
     "code": "NO",
-    "name": "Norway",
-    "nameRu": "Норвегия",
+    "namesEn": [
+      "Norway",
+      "Kingdom of Norway"
+    ],
+    "namesRu": [
+      "Норвегия",
+      "Королевство Норвегия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/no.svg",
     "flagPngPath": "assets/img/all-flags-png/no.png",
     "difficulty": 3,
@@ -2980,28 +3379,42 @@
   },
   {
     "code": "NP",
-    "name": "Nepal",
-    "nameRu": "Непал",
+    "namesEn": [
+      "Nepal",
+      "Federal Democratic Republic of Nepal"
+    ],
+    "namesRu": [
+      "Непал",
+      "Федеративная Демократическая Республика Непал"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/np.svg",
     "flagPngPath": "assets/img/all-flags-png/np.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "NR",
-    "name": "Nauru",
-    "nameRu": "Науру",
+    "namesEn": [
+      "Nauru",
+      "Republic of Nauru"
+    ],
+    "namesRu": [
+      "Науру",
+      "Республика Науру"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nr.svg",
     "flagPngPath": "assets/img/all-flags-png/nr.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "NU",
-    "name": "Niue",
-    "nameRu": "Ниуэ",
+    "namesEn": [
+      "Niue"
+    ],
+    "namesRu": [
+      "Ниуэ"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nu.svg",
     "flagPngPath": "assets/img/all-flags-png/nu.png",
     "difficulty": 5,
@@ -3030,8 +3443,12 @@
   },
   {
     "code": "NZ",
-    "name": "New Zealand",
-    "nameRu": "Новая Зеландия",
+    "namesEn": [
+      "New Zealand"
+    ],
+    "namesRu": [
+      "Новая Зеландия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/nz.svg",
     "flagPngPath": "assets/img/all-flags-png/nz.png",
     "difficulty": 2,
@@ -3060,8 +3477,14 @@
   },
   {
     "code": "OM",
-    "name": "Oman",
-    "nameRu": "Оман",
+    "namesEn": [
+      "Oman",
+      "Sultanate of Oman"
+    ],
+    "namesRu": [
+      "Оман",
+      "Султанат Оман"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/om.svg",
     "flagPngPath": "assets/img/all-flags-png/om.png",
     "difficulty": 3,
@@ -3073,8 +3496,14 @@
   },
   {
     "code": "PA",
-    "name": "Panama",
-    "nameRu": "Панама",
+    "namesEn": [
+      "Panama",
+      "Republic of Panama"
+    ],
+    "namesRu": [
+      "Панама",
+      "Республика Панама"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pa.svg",
     "flagPngPath": "assets/img/all-flags-png/pa.png",
     "difficulty": 3,
@@ -3087,8 +3516,14 @@
   },
   {
     "code": "PE",
-    "name": "Peru",
-    "nameRu": "Перу",
+    "namesEn": [
+      "Peru",
+      "Republic of Peru"
+    ],
+    "namesRu": [
+      "Перу",
+      "Республика Перу"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pe.svg",
     "flagPngPath": "assets/img/all-flags-png/pe.png",
     "difficulty": 3,
@@ -3100,8 +3535,12 @@
   },
   {
     "code": "PF",
-    "name": "French Polynesia",
-    "nameRu": "Французская Полинезия",
+    "namesEn": [
+      "French Polynesia"
+    ],
+    "namesRu": [
+      "Французская Полинезия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pf.svg",
     "flagPngPath": "assets/img/all-flags-png/pf.png",
     "difficulty": 5,
@@ -3121,18 +3560,30 @@
   },
   {
     "code": "PG",
-    "name": "Papua New Guinea",
-    "nameRu": "Папуа — Новая Гвинея",
+    "namesEn": [
+      "Papua New Guinea",
+      "Independent State of Papua New Guinea"
+    ],
+    "namesRu": [
+      "Папуа — Новая Гвинея",
+      "Папуа-Новая Гвинея",
+      "Независимое Государство Папуа — Новая Гвинея"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pg.svg",
     "flagPngPath": "assets/img/all-flags-png/pg.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "PH",
-    "name": "Philippines",
-    "nameRu": "Филиппины",
+    "namesEn": [
+      "Philippines",
+      "Republic of the Philippines"
+    ],
+    "namesRu": [
+      "Филиппины",
+      "Республика Филиппины"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ph.svg",
     "flagPngPath": "assets/img/all-flags-png/ph.png",
     "difficulty": 2,
@@ -3143,8 +3594,14 @@
   },
   {
     "code": "PK",
-    "name": "Pakistan",
-    "nameRu": "Пакистан",
+    "namesEn": [
+      "Pakistan",
+      "Islamic Republic of Pakistan"
+    ],
+    "namesRu": [
+      "Пакистан",
+      "Исламская Республика Пакистан"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pk.svg",
     "flagPngPath": "assets/img/all-flags-png/pk.png",
     "difficulty": 2,
@@ -3155,8 +3612,14 @@
   },
   {
     "code": "PL",
-    "name": "Poland",
-    "nameRu": "Польша",
+    "namesEn": [
+      "Poland",
+      "Republic of Poland"
+    ],
+    "namesRu": [
+      "Польша",
+      "Республика Польша"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pl.svg",
     "flagPngPath": "assets/img/all-flags-png/pl.png",
     "difficulty": 2,
@@ -3168,8 +3631,14 @@
   },
   {
     "code": "PM",
-    "name": "St. Pierre \u0026 Miquelon",
-    "nameRu": "Сен-Пьер и Микелон",
+    "namesEn": [
+      "St. Pierre & Miquelon",
+      "St. Pierre and Miquelon",
+      "Saint Pierre and Miquelon"
+    ],
+    "namesRu": [
+      "Сен-Пьер и Микелон"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pm.svg",
     "flagPngPath": "assets/img/all-flags-png/pm.png",
     "difficulty": 5,
@@ -3189,8 +3658,15 @@
   },
   {
     "code": "PN",
-    "name": "Pitcairn Islands",
-    "nameRu": "о-ва Питкэрн",
+    "namesEn": [
+      "Pitcairn Islands",
+      "Pitcairn"
+    ],
+    "namesRu": [
+      "о-ва Питкэрн",
+      "Острова Питкэрн",
+      "Питкэрн"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pn.svg",
     "flagPngPath": "assets/img/all-flags-png/pn.png",
     "difficulty": 5,
@@ -3219,8 +3695,14 @@
   },
   {
     "code": "PR",
-    "name": "Puerto Rico",
-    "nameRu": "Пуэрто-Рико",
+    "namesEn": [
+      "Puerto Rico",
+      "Commonwealth of Puerto Rico"
+    ],
+    "namesRu": [
+      "Пуэрто-Рико",
+      "Пуэрто Рико"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pr.svg",
     "flagPngPath": "assets/img/all-flags-png/pr.png",
     "difficulty": 3,
@@ -3228,8 +3710,16 @@
   },
   {
     "code": "PS",
-    "name": "Palestinian Territories",
-    "nameRu": "Палестинские территории",
+    "namesEn": [
+      "Palestinian Territories",
+      "Palestine",
+      "State of Palestine"
+    ],
+    "namesRu": [
+      "Палестинские территории",
+      "Палестина",
+      "Государство Палестина"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ps.svg",
     "flagPngPath": "assets/img/all-flags-png/ps.png",
     "difficulty": 4,
@@ -3243,18 +3733,29 @@
   },
   {
     "code": "PT",
-    "name": "Portugal",
-    "nameRu": "Португалия",
+    "namesEn": [
+      "Portugal",
+      "Portuguese Republic"
+    ],
+    "namesRu": [
+      "Португалия",
+      "Португальская Республика"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pt.svg",
     "flagPngPath": "assets/img/all-flags-png/pt.png",
     "difficulty": 2,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "PW",
-    "name": "Palau",
-    "nameRu": "Палау",
+    "namesEn": [
+      "Palau",
+      "Republic of Palau"
+    ],
+    "namesRu": [
+      "Палау",
+      "Республика Палау"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/pw.svg",
     "flagPngPath": "assets/img/all-flags-png/pw.png",
     "difficulty": 3,
@@ -3267,8 +3768,14 @@
   },
   {
     "code": "PY",
-    "name": "Paraguay",
-    "nameRu": "Парагвай",
+    "namesEn": [
+      "Paraguay",
+      "Republic of Paraguay"
+    ],
+    "namesRu": [
+      "Парагвай",
+      "Республика Парагвай"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/py.svg",
     "flagPngPath": "assets/img/all-flags-png/py.png",
     "difficulty": 4,
@@ -3284,8 +3791,14 @@
   },
   {
     "code": "QA",
-    "name": "Qatar",
-    "nameRu": "Катар",
+    "namesEn": [
+      "Qatar",
+      "State of Qatar"
+    ],
+    "namesRu": [
+      "Катар",
+      "Государство Катар"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/qa.svg",
     "flagPngPath": "assets/img/all-flags-png/qa.png",
     "difficulty": 3,
@@ -3297,8 +3810,14 @@
   },
   {
     "code": "RE",
-    "name": "RГ©union",
-    "nameRu": "Реюньон",
+    "namesEn": [
+      "RГ©union",
+      "Reunion",
+      "Réunion"
+    ],
+    "namesRu": [
+      "Реюньон"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/re.svg",
     "flagPngPath": "assets/img/all-flags-png/re.png",
     "difficulty": 5,
@@ -3318,8 +3837,12 @@
   },
   {
     "code": "RO",
-    "name": "Romania",
-    "nameRu": "Румыния",
+    "namesEn": [
+      "Romania"
+    ],
+    "namesRu": [
+      "Румыния"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ro.svg",
     "flagPngPath": "assets/img/all-flags-png/ro.png",
     "difficulty": 3,
@@ -3331,8 +3854,14 @@
   },
   {
     "code": "RS",
-    "name": "Serbia",
-    "nameRu": "Сербия",
+    "namesEn": [
+      "Serbia",
+      "Republic of Serbia"
+    ],
+    "namesRu": [
+      "Сербия",
+      "Республика Сербия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/rs.svg",
     "flagPngPath": "assets/img/all-flags-png/rs.png",
     "difficulty": 4,
@@ -3349,8 +3878,14 @@
   },
   {
     "code": "RU",
-    "name": "Russia",
-    "nameRu": "Россия",
+    "namesEn": [
+      "Russia",
+      "Russian Federation"
+    ],
+    "namesRu": [
+      "Россия",
+      "Российская Федерация"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/ru.svg",
     "flagPngPath": "assets/img/all-flags-png/ru.png",
     "difficulty": 2,
@@ -3366,8 +3901,14 @@
   },
   {
     "code": "RW",
-    "name": "Rwanda",
-    "nameRu": "Руанда",
+    "namesEn": [
+      "Rwanda",
+      "Republic of Rwanda"
+    ],
+    "namesRu": [
+      "Руанда",
+      "Республика Руанда"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/rw.svg",
     "flagPngPath": "assets/img/all-flags-png/rw.png",
     "difficulty": 3,
@@ -3375,8 +3916,14 @@
   },
   {
     "code": "SA",
-    "name": "Saudi Arabia",
-    "nameRu": "Саудовская Аравия",
+    "namesEn": [
+      "Saudi Arabia",
+      "Kingdom of Saudi Arabia"
+    ],
+    "namesRu": [
+      "Саудовская Аравия",
+      "Королевство Саудовская Аравия"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/sa.svg",
     "flagPngPath": "assets/img/all-flags-png/sa.png",
     "difficulty": 1,
@@ -3387,18 +3934,29 @@
   },
   {
     "code": "SB",
-    "name": "Solomon Islands",
-    "nameRu": "Соломоновы о-ва",
+    "namesEn": [
+      "Solomon Islands"
+    ],
+    "namesRu": [
+      "Соломоновы о-ва",
+      "Соломоновы острова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/sb.svg",
     "flagPngPath": "assets/img/all-flags-png/sb.png",
     "difficulty": 3,
-    "similarFlags": [
-    ]
+    "similarFlags": []
   },
   {
     "code": "SC",
-    "name": "Seychelles",
-    "nameRu": "Сейшельские о-ва",
+    "namesEn": [
+      "Seychelles",
+      "Republic of Seychelles"
+    ],
+    "namesRu": [
+      "Сейшельские о-ва",
+      "Сейшельские острова",
+      "Республика Сейшельские Острова"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/sc.svg",
     "flagPngPath": "assets/img/all-flags-png/sc.png",
     "difficulty": 3,
@@ -3406,8 +3964,15 @@
   },
   {
     "code": "SD",
-    "name": "Sudan",
-    "nameRu": "Судан",
+    "namesEn": [
+      "Sudan",
+      "Republic of the Sudan",
+      "Republic of Sudan"
+    ],
+    "namesRu": [
+      "Судан",
+      "Республика Судан"
+    ],
     "flagSvgPath": "assets/img/all-flags-svg/sd.svg",
     "flagPngPath": "assets/img/all-flags-png/sd.png",
     "difficulty": 4,
