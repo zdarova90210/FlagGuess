@@ -272,7 +272,6 @@
   {
     "code": "AX",
     "namesEn": [
-      "Г…land Islands",
       "Aland Islands",
       "Åland Islands"
     ],
@@ -469,7 +468,6 @@
   {
     "code": "BL",
     "namesEn": [
-      "St. BarthГ©lemy",
       "St. Barthelemy",
       "Saint Barthelemy",
       "Saint Barthélemy",
@@ -822,7 +820,6 @@
   {
     "code": "CI",
     "namesEn": [
-      "CГґte dвЂ™Ivoire",
       "Cote d'Ivoire",
       "Côte d'Ivoire",
       "Ivory Coast"
@@ -1008,7 +1005,6 @@
   {
     "code": "CW",
     "namesEn": [
-      "CuraГ§ao",
       "Curacao",
       "Curaçao"
     ],
@@ -2433,7 +2429,7 @@
     ],
     "namesRu": [
       "Коморы",
-      "Союз Коморских Остров"
+      "Союз Коморских Островов"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/km.svg",
     "flagPngPath": "assets/img/all-flags-png/km.png",
@@ -3811,7 +3807,6 @@
   {
     "code": "RE",
     "namesEn": [
-      "RГ©union",
       "Reunion",
       "Réunion"
     ],
@@ -3955,7 +3950,7 @@
     "namesRu": [
       "Сейшельские о-ва",
       "Сейшельские острова",
-      "Республика Сейшельские Острова"
+      "Республика Сейшельских Островов"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/sc.svg",
     "flagPngPath": "assets/img/all-flags-png/sc.png",
@@ -4233,7 +4228,8 @@
     ],
     "namesRu": [
       "Южный Судан",
-      "Республика Южный Судан"
+      "Республика Южный Судан",
+      "Республика Южного Судана"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/ss.svg",
     "flagPngPath": "assets/img/all-flags-png/ss.png",
@@ -4243,7 +4239,7 @@
   {
     "code": "ST",
     "namesEn": [
-      "SГЈo TomГ© & PrГ­ncipe",
+      "São Tomé & Príncipe",
       "Sao Tome and Principe",
       "Sao Tome & Principe",
       "Democratic Republic of Sao Tome and Principe"
@@ -4265,7 +4261,7 @@
     ],
     "namesRu": [
       "Сальвадор",
-      "Республика Эль-Сальвадор"
+      "Республика Сальвадор"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/sv.svg",
     "flagPngPath": "assets/img/all-flags-png/sv.png",
@@ -4550,10 +4546,9 @@
   {
     "code": "TR",
     "namesEn": [
-      "TГ¼rkiye",
+      "Türkiye",
       "Turkey",
-      "Republic of Turkey",
-      "Republic of TГ¼rkiye"
+      "Republic of Turkey"
     ],
     "namesRu": [
       "Турция",
@@ -4721,7 +4716,7 @@
     ],
     "namesRu": [
       "Уругвай",
-      "Восточная Республика Уругвай"
+      "Восточная Республика Уругвая"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/uy.svg",
     "flagPngPath": "assets/img/all-flags-png/uy.png",
@@ -4863,7 +4858,7 @@
     ],
     "namesRu": [
       "Вьетнам",
-      "Социалистическая Республика Вьетнам"
+      "Социалистическая Республика Вьетнама"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/vn.svg",
     "flagPngPath": "assets/img/all-flags-png/vn.png",
