@@ -5,6 +5,16 @@
   justify-content: center;
   align-items: center;
 
+  .settings-list {
+    margin-top: 32px;
+    list-style: initial;
+    color: #5aa9ff;
+
+    li {
+      padding: 4px 0;
+    }
+  }
+
   button {
     width: 80%;
     height: 200px;
