@@ -2429,6 +2429,7 @@
     ],
     "namesRu": [
       "Коморы",
+      "Коморские острова",
       "Союз Коморских Островов"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/km.svg",
@@ -3948,9 +3949,11 @@
       "Republic of Seychelles"
     ],
     "namesRu": [
+      "Сейшелы",
       "Сейшельские о-ва",
       "Сейшельские острова",
-      "Республика Сейшельских Островов"
+      "Республика Сейшельских Островов",
+      "Республика Сейшельские Острова"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/sc.svg",
     "flagPngPath": "assets/img/all-flags-png/sc.png",
@@ -4261,7 +4264,8 @@
     ],
     "namesRu": [
       "Сальвадор",
-      "Республика Сальвадор"
+      "Республика Сальвадор",
+      "Республика Эль-Сальвадор"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/sv.svg",
     "flagPngPath": "assets/img/all-flags-png/sv.png",
@@ -4716,7 +4720,8 @@
     ],
     "namesRu": [
       "Уругвай",
-      "Восточная Республика Уругвая"
+      "Восточная Республика Уругвая",
+      "Восточная Республика Уругвай"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/uy.svg",
     "flagPngPath": "assets/img/all-flags-png/uy.png",
@@ -4858,7 +4863,8 @@
     ],
     "namesRu": [
       "Вьетнам",
-      "Социалистическая Республика Вьетнама"
+      "Социалистическая Республика Вьетнама",
+      "Социалистическая Республика Вьетнам"
     ],
     "flagSvgPath": "assets/img/all-flags-svg/vn.svg",
     "flagPngPath": "assets/img/all-flags-png/vn.png",
