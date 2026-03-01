@@ -1,7 +1,7 @@
 export interface ICountry {
   code: string;
-  name: string;
-  nameRu: string;
+  namesEn: string[];
+  namesRu: string[];
   flagSvgPath: string;
   flagPngPath: string;
   difficulty: number;
