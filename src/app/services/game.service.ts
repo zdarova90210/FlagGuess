@@ -18,6 +18,7 @@ export class GameService {
           return acc;
         }, {} as Record<number, ICountry[]>)
       ),
+      /*TODO: поиграться с shareReplay*/
       shareReplay(1)
     );
 

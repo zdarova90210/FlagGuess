@@ -1,6 +1,5 @@
 import {Component, computed, inject, OnInit, signal} from '@angular/core';
 import {FormControl, FormGroup, ReactiveFormsModule} from '@angular/forms';
-import {take} from 'rxjs';
 import {GameService} from '../../services/game.service';
 import {ICountry} from '../../models/country';
 
@@ -26,7 +25,7 @@ export class GameComponent implements OnInit {
   isFinished = computed(() => this.currentIndex() >= this.countries().length);
 
   ngOnInit(): void {
-    this.gameService.getCountries().pipe(take(1)).subscribe(countries => {
+    this.gameService.getCountries().subscribe(countries => {
       this.countries.set(countries);
       this.currentIndex.set(0);
     });
