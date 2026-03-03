@@ -1,10 +1,12 @@
-@if (countries$ | async) {
+@if (!isFinished() && currentCountry(); as country) {
+  <img [src]="country.flagSvgPath" [alt]="country.namesRu[0]">
 
+  <form [formGroup]="form" (ngSubmit)="submitAnswer()">
+    <input class="answer" type="text" formControlName="answer">
+    <button type="submit">Проверить</button>
+  </form>
+
+  <p>{{ currentIndex() + 1 }} / {{ countries().length }}</p>
+} @else {
+  <p>Игра окончена. Счёт: {{ score() }}</p>
 }
-<form [formGroup]="form">
-  <input class="answer" type="text" formControlName="answer">
-</form>
-
-<!--<pre style="position: relative; top: 100px;">-->
-<!--  {{ form.value.answer }}-->
-<!--</pre>-->
