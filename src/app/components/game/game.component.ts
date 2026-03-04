@@ -35,10 +35,10 @@ export class GameComponent implements OnInit {
     const country = this.currentCountry();
     if (!country) return;
 
-    const answer = this.normalize(this.form.controls.answer.value);
+    const answer = this.normalizeString(this.form.controls.answer.value);
     const isCorrect =
-      country.namesRu.some(name => this.normalize(name) === answer) ||
-      country.namesEn.some(name => this.normalize(name) === answer);
+      country.namesRu.some(name => this.normalizeString(name) === answer) ||
+      country.namesEn.some(name => this.normalizeString(name) === answer);
 
     if (isCorrect) {
       this.score.update(value => value + 1);
@@ -48,7 +48,7 @@ export class GameComponent implements OnInit {
     this.currentIndex.update(index => index + 1);
   }
 
-  private normalize(value: string): string {
+  private normalizeString(value: string): string {
     return value.trim().toLowerCase();
   }
 }
