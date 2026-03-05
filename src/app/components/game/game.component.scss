@@ -25,4 +25,18 @@
     border: 1px solid #ccc;
     margin-top: 16px;
   }
+
+  .answer-result {
+    margin: 0 0 16px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .correct {
+    color: #1b8f3a;
+  }
+
+  .wrong {
+    color: #c53030;
+  }
 }

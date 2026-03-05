@@ -6,6 +6,12 @@
     <button type="submit">Проверить</button>
   </form>
 
+  @if (lastAnswerCorrect() !== null) {
+    <p class="answer-result" [class.correct]="lastAnswerCorrect()" [class.wrong]="!lastAnswerCorrect()">
+      {{ lastAnswerCorrect() ? 'Верный ответ' : 'Ошибка' }}
+    </p>
+  }
+
   <p>{{ currentIndex() + 1 }} / {{ countries().length }}</p>
 } @else {
   <p>Игра окончена. Счёт: {{ score() }}</p>

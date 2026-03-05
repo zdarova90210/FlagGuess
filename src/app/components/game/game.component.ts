@@ -20,6 +20,7 @@ export class GameComponent implements OnInit {
   countries = signal<ICountry[]>([]);
   currentIndex = signal(0);
   score = signal(0);
+  lastAnswerCorrect = signal<boolean | null>(null);
 
   currentCountry = computed(() => this.countries()[this.currentIndex()] ?? null);
   isFinished = computed(() => this.currentIndex() >= this.countries().length);
@@ -43,6 +44,8 @@ export class GameComponent implements OnInit {
     if (isCorrect) {
       this.score.update(value => value + 1);
     }
+
+    this.lastAnswerCorrect.set(isCorrect);
 
     this.form.reset({ answer: '' });
     this.currentIndex.update(index => index + 1);
