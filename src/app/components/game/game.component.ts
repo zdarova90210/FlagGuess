@@ -23,10 +23,11 @@ export class GameComponent implements OnInit {
   lastAnswerCorrect = signal<boolean | null>(null);
 
   currentCountry = computed(() => this.countries()[this.currentIndex()] ?? null);
+  wrongAnswers = computed(() => this.currentIndex() - this.score());
   isFinished = computed(() => this.currentIndex() >= this.countries().length);
 
   ngOnInit(): void {
-    this.gameService.getCountries().subscribe(countries => {
+    this.gameService.getCountries(10, 1).subscribe(countries => {
       this.countries.set(countries);
       this.currentIndex.set(0);
     });

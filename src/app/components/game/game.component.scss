@@ -32,6 +32,37 @@
     font-weight: 600;
   }
 
+  .answer-stats {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .stats-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 60px;
+    justify-content: center;
+    padding: 6px 10px;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid transparent;
+  }
+
+  .stats-correct {
+    color: #1b8f3a;
+    border-color: rgba(27, 143, 58, 0.25);
+    background: rgba(27, 143, 58, 0.08);
+  }
+
+  .stats-wrong {
+    color: #c53030;
+    border-color: rgba(197, 48, 48, 0.25);
+    background: rgba(197, 48, 48, 0.08);
+  }
+
   .correct {
     color: #1b8f3a;
   }

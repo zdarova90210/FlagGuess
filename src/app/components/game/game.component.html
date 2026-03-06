@@ -1,3 +1,8 @@
+<div class="answer-stats" aria-live="polite">
+  <span class="stats-item stats-correct"><span aria-hidden="true">&check;</span> {{ score() }}</span>
+  <span class="stats-item stats-wrong"><span aria-hidden="true">&times;</span> {{ wrongAnswers() }}</span>
+</div>
+
 @if (!isFinished() && currentCountry(); as country) {
   <img [src]="country.flagSvgPath" [alt]="country.namesRu[0]">
 
